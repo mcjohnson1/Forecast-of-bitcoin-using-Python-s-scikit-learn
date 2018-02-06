@@ -1,1 +1,1 @@
-# Predicting-the-Price-of-Bitcoin
+# Bitcoin Forecasting using Python's scikit-learn
